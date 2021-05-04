@@ -1,0 +1,249 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	    width: 100%;
+        height: 56px;
+        background: #2874f0;
+}
+.a{
+	    text-decoration: none;
+    padding-left: 179px;
+    color: white;
+    font-style: italic;
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 500;
+}
+.log{
+	text-align: right;
+    margin-top: -42px;
+}
+.log a{
+	font-weight: bold;
+    text-decoration: none;
+    margin-right: 373px;
+    border: 1px solid;
+    padding: 8px 40px;
+    color: #2874f0;
+    background-color: white;
+    /* font-size: 17px; */
+    border-radius: 2px;
+    font-family: sans-serif;
+}
+.more{
+	text-align: right;
+    margin-right: 264px;
+    margin-top: -23px;
+}
+.more a{
+	text-decoration: none;
+    color: white;
+    font-family: system-ui;
+    font-size: 19px;
+    font-weight: 500;
+    overflow: hidden;
+}
+.icon{
+	margin-right: 120px;
+    text-align: right;
+    margin-top: -21px;
+}
+.icon a i{
+	font-weight: 600;
+    font-size: 17px;
+    /* font-family: 'FontAwesome'; */
+    color: white;
+}
+.header{
+	width: 100%;
+    height: 112px;
+    background: white;
+}
+.header1 {
+	/*width: 80px;
+	height: 112px;
+	border: 1px solid black;*/
+	float: left;
+	/*margin-left: 26px;*/
+	padding-left: 46px;
+}
+.header1 a{
+	text-decoration: none;
+    text-align: center;
+    color: #212121;
+    font-weight: bold;
+    font-size: 14px;
+}
+.header2 {
+	width: 64px;
+	height: 64px;
+	/*border: 1px solid black;*/
+	margin: 9px;
+}
+.slider{
+	width: 99%;
+	height:280px;
+	background-color: white;
+	/*margin-top: 10px;*/
+	margin: auto;
+}
+.deals{
+	width: 99%;
+    height: 362px;
+    background: bisque;
+    margin: auto;
+}
+.deal1{
+	width: 999px;
+	height: 362px;
+	background-color:  white;
+}
+/*.deal2{
+	width: 237px;
+	height: 362px;
+	background: white;
+	float: right;
+}*/
+.dealheader{
+	  padding: 15px 20px;
+    font-size: 17px;
+    font: message-box;
+    border-bottom: 1px solid;
+}
+.viewbutton{
+	height: 39px;
+    width: 97px;
+    color: white;
+    background: #2874f0;
+    border-radius: 4px;
+    border: 1px solid;
+}
+.dealcontant{
+	/*width: 195px;
+	height: 287px;
+	border: 1px solid black;*/
+	float: left;
+}
+.dealcontant1{
+	width: 150px;
+    height: 150px;
+   /* border: 1px solid;*/
+    margin: 22px;
+}
+.dealcontant1 a{
+	text-align: center;
+    text-decoration: none;
+    font: message-box;
+    font-size: 12.85px;
+    color: black;
+    font-weight: bold;
+}
+.footerwhite{
+	width: 100%;
+	height: 2342px;
+	background-color: white;
+}
+.footercontant{
+	width: 96%;
+	margin: auto;
+	margin-top: 5px;
+}
+.footercontant p{
+	font-family: sans-serif;
+	font-size: 13px;
+    color: #848484;
+    line-height: 1.5;
+}
+.footercontant p a{
+	    font-size: 11.75px;
+	    text-decoration: none;
+	    color: #565656;
+	        font-family: inherit;
+}
+.footercontant1{
+	width: 96%;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 8px;
+    color: #848484;
+}
+.footercontant1 p{
+	line-height: 16px;
+	margin-top: 10px;
+	font-size: 10.75px;
+}
+.footercontant1 h2{
+	font-weight: bold;
+	font-size: 14px
+}
+.footerblue{
+	width: 100%;
+	height: 272px;
+	background-color: #172337;
+}
+.footerrows{
+	    margin-left: 65px;
+    padding-top: 40px;
+}
+.footerborder{
+	width: 151.91px;
+	height: 179px;
+	border: 0px solid white;
+	float: left;
+}
+.footertext{
+	color: #878787;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+.footerborder a{
+	text-decoration: none;
+    color: white;
+    line-height: 2;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.footerborder1{
+	width: 283.05px;
+	height: 179px;
+	border: 0px solid white;
+	float: left;
+}
+.footerborder1 p{
+	color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+}
+.footerborder2{
+	width: 246.05px;
+	height: 179px;
+	border: 0px solid white;
+	float: left;
+}
+.footerborder2 p{
+	color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+.footerblue1{
+	width: 100%;
+	height: 73px;
+	background-color: #172337;
+}
+.footerblue1 a{
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+	    font-size: 13px;
+}
+.footerblue1 p{
+	color: white;
+    text-align: center;
+    margin-top: -53px;
+    margin-left: 104px;
+}

@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.purple{
+	background-color: #4a317e;
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 220px;
+    padding-top: 10px;
+}
+.Districts{
+	margin-top: 20px;
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: purple;
+}
+.img{
+	margin-top: 40px;
+    margin-left: 80px;
+    width: 228px;
+    height: 242px;
+    box-shadow: 4px 4px 4px grey, 0px 4px 4px grey;
+    float: left;
+    cursor: pointer;
+}
+.img p{
+	margin-left: 72px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: -webkit-pictograph;
+}

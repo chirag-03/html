@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.purple{
+	background-color: #5d338a;
+    width: 100%;
+    height: 700px;
+}
+.purple p{
+	color: white;
+    margin-left: 140px;
+    padding-top: 10px;
+}
+.purple button{
+	float: right;
+    margin-top: -18px;
+    background-color: white;
+    width: 70px;
+    height: 30px;
+    margin-right: 60px;
+}
+
